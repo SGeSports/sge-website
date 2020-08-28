@@ -5,6 +5,7 @@ date:   2014-04-25 16:54:46
 author: Marcel Newman
 categories:
 - project
+video_url: https://youtu.be/s6zR2T9vn2c
 img: portfolio_02.jpg
 thumb: thumb02.jpg
 carousel:
