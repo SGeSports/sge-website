@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Logo design contest starts now"
+title: "Sleeping Giants CSGO team advances to next division"
 date: 2014-04-25 16:54:46
 author: Admin
 categories:
