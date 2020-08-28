@@ -1,11 +1,11 @@
 ### GENERAL SETTINGS ###
 
 # Site settings
-title: SOLID.
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: SGeSports
+description: "We are an eSports Organization specializing in the shooter titles Counter-Strike and Valorent."
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "" #important: start with /
-url: "http://yourdomain.com"
+url: "http://sgesports.club"
 
 # Build settings
 markdown: kramdown
@@ -48,18 +48,18 @@ social:
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
 address:
   - lines:
-    - Some Ave, 987,
-    - 23890, New York,
-    - United States.
-email: hello@solidtheme.com
-tel: +34 8493-4893
+    - Thunder Bay,
+    - Ontario,
+    - Canada.
+email: sleepinggiantesports@gmail.com
+tel: 
 
 
 ### GENERAL DATA FOR VARIOUS LOCATIONS ###
 
 # Members information. Shown on About page.
 members:
-  - name: Mark Webber
+  - name: Nolan "Sniper" Paxton
     position: CEO
     text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
     img: team01.jpg
@@ -68,8 +68,8 @@ members:
         url: mailto:name@domain.com
       - title: twitter
         url: http://twitter.com/handle
-  - name: Paul Jameson
-    position: Lead Designer
+  - name: Connor "SegFault" Postma
+    position: CTO
     text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
     img: team02.jpg
     social:
@@ -77,8 +77,8 @@ members:
         url: mailto:name@domain.com
       - title: twitter
         url: http://twitter.com/handle
-  - name: Laura Sommers
-    position: Lead Developer
+  - name: Stump
+    position: CMO
     text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
     img: team03.jpg
     social:
@@ -86,7 +86,7 @@ members:
         url: mailto:name@domain.com
       - title: twitter
         url: http://twitter.com/handle
-  - name: Martin Blunt
+  - name: King2k
     position: Marketing
     text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
     img: team04.jpg
@@ -98,20 +98,20 @@ members:
 
 # Clients information. Shown on Home and About pages.
 clients:
-  - name: dribbble
+  - name: change
     img: client01.png
-  - name: Code is Poetry
+  - name: this
     img: client02.png
-  - name: Vimeo
+  - name: to
     img: client03.png
-  - name: VimeoPro
+  - name: partners
     img: client04.png
 
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
-about: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+about: "Contrary to our name, the Sleeping Giants never sleep. Bring our game to the next level is our mission, and even in the haze of sleeplessness we destroy competitors who stand in our way. Game on!"
 
 # Testimonial content. Shown on Home and About page.
 testimonial:
-    message: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
-    author: Marcel Newman
-    position: WEB DESIGNER - BLACKTIE.CO
+    message: "The Sleeping Giants community has taught me so much and is lots of fun to be a part of. I am proud to say I get to game along side the talented people of this organization on their off time."
+    author: John Smith
+    position: happy community member
