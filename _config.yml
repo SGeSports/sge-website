@@ -34,19 +34,22 @@ collections:
 
 # Social networks usernames. Many more available: google-plus, flickr, linkedin, etc). Shown in footer.
 social:
-  - title: discord
+  - title: fab fa-discord
     url: /discord
-  - title: twitter
+  - title: fab fa-twitter
     url: https://twitter.com/SleepingGiantGG
-  - title: twitch
+  - title: fab fa-twitch
     url: https://www.twitch.tv/sleepinggiantsesports
+  - title: fas fa-envelope-open-text #use for email address
+    url: mailto:sleepinggiantesports@gmail.com
 
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
 address:
   - lines:
-    - Thunder Bay,
-    - Ontario,
-    - Canada.
+    - Join our community on Discord,
+    - <a href="https://sgesports.club/discord">https://sgesports.club/discord</a>
+    - We hang out, play games, run events,
+    - compete for prizes, and other fun stuff. :)
 email: sleepinggiantesports@gmail.com
 tel: 
 
@@ -65,7 +68,7 @@ members:
       - title: twitter
         url: http://twitter.com/handle
   - name: Connor "SegFault" Postma
-    position: CTO
+    position: Co-CEO
     text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
     img: team02.jpg
     social:
@@ -74,7 +77,7 @@ members:
       - title: twitter
         url: http://twitter.com/handle
   - name: Stump
-    position: CMO
+    position: COO
     text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
     img: team03.jpg
     social:
@@ -83,7 +86,7 @@ members:
       - title: twitter
         url: http://twitter.com/handle
   - name: King2k
-    position: Marketing
+    position: CCO
     text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
     img: team04.jpg
     social:
