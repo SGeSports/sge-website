@@ -98,14 +98,8 @@ members:
 
 # Clients information. Shown on Home and About pages.
 clients:
-  - name: change
+  - name: example client
     img: client01.png
-  - name: this
-    img: client02.png
-  - name: to
-    img: client03.png
-  - name: partners
-    img: client04.png
 
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
 about: "Contrary to our name, the Sleeping Giants never sleep. Bring our game to the next level is our mission, and even in the haze of sleeplessness we destroy competitors who stand in our way. Game on!"
