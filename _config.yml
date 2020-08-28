@@ -13,11 +13,11 @@ permalink: /:categories/:title/
 excerpt_separator: <!--more--> #use this in posts to define how long the excerpt of the post (that is shown on the Blog page) is
 
 colors:  #in hex code if not noted else
-  primary: "#00b3fe" #"#F70031"
-  primary_rgb: "0,179,254" #"247,0,49" #rgb of the primary. Needed in some places for the transparency effect.
-  secondary: "#384452" #"#33004D"
-  link: "#428bca"
-  link_hover: "#01b2fe"
+  primary: "#bdcf46" #"#F70031"
+  primary_rgb: "189,207,70" #"247,0,49" #rgb of the primary. Needed in some places for the transparency effect.
+  secondary: "#2f2f2f" #"#33004D"
+  link: "#42ca52"
+  link_hover: "#01fe54"
   footer_heading: "#ffffff"
   footer_content: "#bfc9d3"
 
@@ -98,14 +98,8 @@ members:
 
 # Clients information. Shown on Home and About pages.
 clients:
-  - name: change
+  - name: example client
     img: client01.png
-  - name: this
-    img: client02.png
-  - name: to
-    img: client03.png
-  - name: partners
-    img: client04.png
 
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
 about: "Contrary to our name, the Sleeping Giants never sleep. Bring our game to the next level is our mission, and even in the haze of sleeplessness we destroy competitors who stand in our way. Game on!"
