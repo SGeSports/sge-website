@@ -7,6 +7,8 @@ layout: default
 <div class="container mt">
     <div class="row">
 
+        {% include ytembed.html %}
+
         {% include carousel.html %}
 
         <div class="col-lg-5 col-lg-offset-1">
@@ -23,7 +25,7 @@ layout: default
             <p><b>Author:</b> {{ page.author }}</p>
             <p><b>Categories:</b> {{ page.categories }}</p>
             <p><b>Tagged:</b> {{ page.tagged }}</p>
-            <p><b>Client:</b> {{ page.client }}</p>
+            <p><b>Player:</b> {{ page.client }}</p>
             <p><b>Website:</b> <a href="{{ page.website }}">{{ page.website }}</a></p>
         </div>
     </div><! --/row -->
