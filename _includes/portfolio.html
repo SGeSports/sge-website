@@ -5,12 +5,13 @@
             {% for project in site.projects limit:include.limit %}
                 <div class="portfolio-item graphic-design">
                     <div class="he-wrap tpl6">
-                    <img src="{{ "/assets/img/project/" | prepend: site.baseurl }}{{ project.img }}" alt="">
+                    <img src="http://img.youtube.com/vi/{{ project.video_id }}/0.jpg" }}{{ project.img }}" alt="">
                         <div class="he-view">
                             <div class="bg a0" data-animate="fadeIn">
                                 <h3 class="a1" data-animate="fadeInDown">{{ project.title }}</h3>
-                                <a data-poptrox="youtube,800x400" href="{{ project.video_url }}" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-play"></i></a>
-                                <a href="{{  project.url | prepend: site.baseurl }}" class="dmbutton a2" data-animate="fadeInUp" data-poptrox="ignore"><i class="fa fa-book-open"></i></a>
+                                <p>{{ project.video_id }}</p>
+                                <a data-poptrox="youtube,800x400" href="{{ project.video_id | prepend: "https://youtu.be/" }}" class="dmbutton a2" data-animate="fadeInUp" title="{{ project.title }}"><i class="fa fa-play"></i></a>
+                                <a data-poptrox="ignore" href="{{  project.url | prepend: site.baseurl }}" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-book-open"></i></a>
                             </div><!-- he bg -->
                         </div><!-- he view -->
                     </div><!-- he wrap -->

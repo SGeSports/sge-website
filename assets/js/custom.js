@@ -20,23 +20,23 @@
 		// Poptrox.
 		$window.on('load', function() {
 
-			//var $thumbs = $('#gallery');
-			var $thumbs = $('.portfolio');
+			var $thumbs = $('#gallery');
+			//var $thumbs = $('.portfolio');
 
-			//$thumbs.poptrox();
-			//if ($thumbs.length > 0)
-			$thumbs.poptrox({
-				onPopupClose: function() { $body.removeClass('is-covered'); },
-				onPopupOpen: function() { $body.addClass('is-covered'); },
-				baseZIndex: 10001,
-				useBodyOverflow: false,
-				overlayColor: '#222226',
-				overlayOpacity: 0.75,
-				popupLoaderText: '',
-				fadeSpeed: 500,
-				usePopupDefaultStyling: true,
-				windowMargin: 5
-			});
+			$thumbs.poptrox();
+			// if ($thumbs.length > 0)
+			// 	$thumbs.poptrox({
+			// 		//onPopupClose: function() { $body.removeClass('is-covered'); },
+			// 		//onPopupOpen: function() { $body.addClass('is-covered'); },
+			// 		baseZIndex: 10001,
+			// 		useBodyOverflow: false,
+			// 		overlayColor: '#222226',
+			// 		overlayOpacity: 0.75,
+			// 		popupLoaderText: '',
+			// 		fadeSpeed: 500,
+			// 		usePopupDefaultStyling: false,
+			// 		windowMargin: 5
+			// 	});
 
 		});
 	});
