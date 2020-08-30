@@ -4,6 +4,7 @@
 title: SGeSports
 description: "We are an eSports Organization specializing in the shooter titles Counter-Strike and Valorent."
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
+netlify_identity: true
 baseurl: "" #important: start with /
 url: "http://sgesports.club"
 
