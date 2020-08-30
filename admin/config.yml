@@ -1,0 +1,36 @@
+backend:
+  name: git-gateway
+  branch: content-published # Branch to update (optional; defaults to master)
+publish_mode: editorial_workflow
+media_folder: "assets/img/blog" # Media files will be stored in the repo under images/uploads
+public_folder: "" # The src attribute for uploaded media will have no directory as it is handled by the theme
+
+collections:
+  - name: "blog" # Used in routes, e.g., /admin/collections/blog
+    label: "Blog" # Used in the UI
+    folder: "_posts/blog" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Author", name: "author", widget: "string", default: "Admin"}
+      - {- label: "Categories", name: "categories", widget: "list", default: ["blog"]}
+      - {label: "Featured Image", name: "img", widget: "image"}
+      - {label: "Thumbnail", name: "thumbnail", widget: "image"}
+      - {label: "Body", name: "body", widget: "markdown"}
+
+
+---
+layout: post
+title: "Exciting new changes for the community"
+date: 2014-04-25 16:54:46
+author: Admin
+categories: 
+- blog 
+- Wordpress
+- Photoshop
+img: post01.jpg
+thumb: thumb01.jpg
+---
