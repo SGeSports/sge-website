@@ -6,7 +6,7 @@ description: "We are an eSports Organization specializing in the shooter titles 
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
 netlify_identity: true
 baseurl: "" #important: start with /
-url: "http://sgesports.club"
+url: "https://sgesports.club"
 
 # Build settings
 markdown: kramdown
