@@ -11,8 +11,18 @@ img: kaputuncle.jpg
 ---
 # My Experience with Sleeping Giants eSports as a Small Streamer
 
-### Autobiography article by one of our streaming personalities, "kaputncle".
+### Autobiography article by one of our streaming personalities, "***kaputncle***".
 
 So my username is kaputncle, which is me saying I’m an inefficient uncle, and I’m a small twitch streamer. I’m currently trying to expand my horizon so I am posting on Youtube and TikTok which reach more people than Twitch can. For me, streaming is about showing your real self and having fun, and that is exactly what I’m doing.
 
-I have been in this community for 4 months, and it has truly been enjoyable. I remember when there was a very active 10 mans server for CS:GO, that helped me meet these people, my friends. I’m happy to continue with Sleeping Giants Esports as they grow and succeed.
+I have been in this community for 4 months, and it has truly been enjoyable. I remember when there was a very active 10 mans server for CS:GO, that helped me meet these people, my friends. I’m happy to continue with Sleeping Giants eSports as they grow and succeed.
+
+
+
+\- **kaputncle**, Content Creator
+
+<https://www.twitch.tv/kaputuncle>
+
+<https://www.youtube.com/channel/UCbNY7M1NgfYIgFXBpXF1B9g>
+
+<https://twitter.com/kaputuncle>
