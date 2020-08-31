@@ -16,6 +16,23 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Author", name: "author", widget: "string", default: "Admin"}
-      - {- label: "Categories", name: "categories", widget: "list", default: ["blog"]}
+      - {label: "Categories", name: "categories", widget: "list", default: ["blog"]}
       - {label: "Post Image", name: "img", widget: "image"}
       - {label: "Body", name: "body", widget: "markdown"}
+  - name: "portfolio"
+    label: "Videos"
+    folder: "_projects"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - {label: "Layout", name: "layout", widget: "hidden", default: "project"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Showcase Added Date", name: "date", widget: "datetime"}
+      - {label: "Added By", name: "author", widget: "string", default: "Admin"}
+      - {label: "Categories", name: "categories", widget: "list", default: ["project"]}
+      - {label: "Youtube Video ID", name: "video_id", widget: "string", default: "IEW5zf0tgvc"}
+      - {label: "Post Image", name: "img", widget: "image"}
+      - {label: "Tags", name: "tagged", widget: "list", default: ["Gaming"]}
+      - {label: "Video Creator", name: "creator", widget: "string"}
+      - {label: "Short Description", name: "summary", widget: "string"}
+      - {label: "Video Description", name: "body", widget: "markdown"}
