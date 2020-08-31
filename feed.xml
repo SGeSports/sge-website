@@ -2,7 +2,7 @@
 layout: none
 ---
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="https://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="https://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>{{ site.title | xml_escape }}</title>
     <description>{{ site.description | xml_escape }}</description>
@@ -18,6 +18,9 @@ layout: none
         <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
         <link>{{ post.url | prepend: site.baseurl | prepend: site.url | xml_escape }}</link>
         <guid isPermaLink="true">{{ post.url | prepend: site.baseurl | prepend: site.url | xml_escape }}</guid>
+        {% if post.img %}
+        <media:content medium="image" url="{{ "/assets/img/blog/" | prepend: site.baseurl | prepend: site.url | append: post.img | append: "?nf_resize=smartcrop&w=70&h=70" | xml_escape}}" width="70" height="70" />
+        {% endif %}
         {% for tag in post.tags %}
         <category>{{ tag | xml_escape }}</category>
         {% endfor %}
