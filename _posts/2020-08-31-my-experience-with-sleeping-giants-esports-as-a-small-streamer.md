@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My Experience with Sleeping Giants eSports as a Small Streamer
-date: 2020-08-31T17:31:14.738Z
+date: 2020-08-31T20:18:17.309Z
 author: Kaputuncle
 categories:
   - blog
