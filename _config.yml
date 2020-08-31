@@ -66,8 +66,6 @@ members:
     social:
       - title: fab fa-steam-symbol #use for email address
         url: https://steamcommunity.com/profiles/76561198333330178
-      - title: fab fa-twitter
-        url: http://twitter.com/handle
   - name: Connor "SegFault" Postma
     position: Co-CEO
     text: A big nerd.
