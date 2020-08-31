@@ -5,13 +5,13 @@
             {% for project in site.projects limit:include.limit %}
                 <div class="portfolio-item graphic-design">
                     <div class="he-wrap tpl6">
-                    <img src="https://img.youtube.com/vi/{{ project.video_id }}/0.jpg" }}{{ project.img }}" alt="">
+                    <img src="https://img.youtube.com/vi/{{ project.video_id }}/0.jpg" }}{{ project.img }}" alt="{{ project.desc }}" width="100%">
                         <div class="he-view">
                             <div class="bg a0" data-animate="fadeIn">
                                 <h3 class="a1" data-animate="fadeInDown">{{ project.title }}</h3>
-                                <p>{{ project.video_id }}</p>
-                                <a href="{{ project.video_id | prepend: "https://youtu.be/" }}" class="dmbutton a2" data-animate="fadeInUp" title="{{ project.title }}"><i class="fa fa-play"></i></a>
-                                <a href="{{  project.url | prepend: site.baseurl }}" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-book-open"></i></a>
+                                <p>{{ project.desc }}</p>
+                                <a href="{{ project.video_id | prepend: "https://youtu.be/" }}" class="dmbutton a2" data-animate="fadeInUp" title="Play {{ project.title }}"><i class="fa fa-play"></i></a>
+                                <a href="{{  project.url | prepend: site.baseurl }}" class="dmbutton a2" data-animate="fadeInUp" title="More details..."><i class="fa fa-book-open"></i></a>
                             </div><!-- he bg -->
                         </div><!-- he view -->
                     </div><!-- he wrap -->
