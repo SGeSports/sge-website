@@ -28,11 +28,11 @@ Keep in touch with our team updates and community changes! We are constantly ada
 ## How can I learn more?
 
 Join our community! We encourage suggestions and contributors to help our growth and positivity. Keep an eye out for blog updates for our current events.
-<p>
+<h1>
 {% for network in site.social %}
     <a href="{{ network.url }}" class="btn-social btn-outline">
         <i class="{{ network.title }}" aria-hidden="true"></i>
         <span class="sr-only">{{network.title}}</span>
     </a>
 {% endfor %}
-</p>
+</h1>
