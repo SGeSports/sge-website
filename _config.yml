@@ -43,6 +43,8 @@ social:
     url: https://www.twitch.tv/sleepinggiantsesports
   - title: fab fa-steam
     url: https://steamcommunity.com/groups/SGE__
+  - title: fab fa-youtube
+    url: https://www.youtube.com/channel/UC5GDJCa-5KE5s6bbGGKAkzA
   - title: fas fa-envelope-open-text #use for email address
     url: mailto:sleepinggiantesports@gmail.com
 
