@@ -38,9 +38,3 @@ Join our community! We encourage suggestions and contributors to help our growth
     </a>
 {% endfor %}
 </p>
-
-[![](https://lh6.googleusercontent.com/8DApqQezMuJCzXcEVu-Ds-TVvdZDVyv7q9VCekhIJcmxG_yrEsUGzT5I6WIr3Z4_9aN2SS0U6Pxpgz0NydHnSosnazXUqXbrU97q8hcIaU73ZHmoz20elc5cKERuhcwOkG_f3nGX)](https://sgesports.club/discord)
-
-![](https://lh3.googleusercontent.com/Zh13IX8Z2ErLU0Q1kdsCE2Z4LtbGhB60B_Y3GPdP4-RrQQCDqYhMFKaUzHrizgjtKcCJRIq8JdZmJlLgDSPry9h8ii2_uOLsyvha8yJ1GpRxBhopkdlDVe7y1PD2k20gnL5xkf2p)
-
-[![](https://lh6.googleusercontent.com/0FQh74KH6yTFkZmffdsOBSQVRXPX-AJ__wWeGu5EkiI1BjzQJAN8hUZPNIgQ_g5Am3Jf3n0h0DPqJIMU2EWCBlPFrC8nj8VmLaTvHL-HCQEEO468CToaOW34rJDaSg55gqMIdkfB)](https://twitter.com/SleepingGiantGG)
