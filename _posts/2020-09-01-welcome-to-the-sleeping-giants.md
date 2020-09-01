@@ -2,7 +2,7 @@
 layout: post
 title: Welcome to the Sleeping Giants!
 date: 2020-09-01T16:59:44.233Z
-author: Admin
+author: Epos
 categories:
   - blog
 img: invitebg-web.png
