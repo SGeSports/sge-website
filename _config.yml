@@ -7,6 +7,7 @@ analytics: #Google analytics code in the format XX-nnnnnnnn-n
 netlify_identity: true
 baseurl: "" #important: start with /
 url: "https://sgesports.club"
+logo: "/assets/svgs/logo/sleeping-giants-header.svg"
 
 # Build settings
 markdown: kramdown

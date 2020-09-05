@@ -112,6 +112,10 @@ a:focus {
 .navbar-brand {
 	font-family: 'Raleway', sans-serif;
 	font-weight: 900;
+	height: 50px;
+	padding: 10px 15px;
+	font-size: 40px;
+	line-height: 20px;
 }
 
 .navbar-header .navbar-brand {
