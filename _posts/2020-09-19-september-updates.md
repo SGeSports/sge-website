@@ -13,7 +13,7 @@ September Updates
 
 .SG. - IM League team
 
-Flare, Kal^, D00mGuy, Links, and Stance, and welcoming our newest member LioN- are standing at a solid 3-3. Watching these games is inspiring. The team communicates constantly, and their energy maintains their strong bond. A few lost rounds only motivates this team to fight harder and help each other. On a two-game win streak, we are stoked to see what is to come in their next match up Tuesday, September 22 against kr0w has 5 lives left.
+Flare, Kal^, D00mGuy, Links, Stance, and welcoming our newest member LioN- are standing at a solid 3-3. Watching these games is inspiring. The team communicates constantly, and their energy maintains their strong bond. A few lost rounds only motivates this team to fight harder and help each other. On a two-game win streak, we are stoked to see what is to come in their next match up Tuesday, September 22 against kr0w has 5 lives left.
 
 .SGE. - R6 team
 
@@ -23,16 +23,6 @@ SG Reborn - Open League
 
 Devy, Idrialite, GsN, Spiral, and grieving are absolutely dumpstering on kids in the CS Open with a 5-1 record. You have never seen a more collected team in heated moments. These guys are hungry to improve. See their next match on Tuesday, September 22 against JEUX Esports.
 
-
-
-
-
-#  [![](https://lh3.googleusercontent.com/5hDmW5VmEEv5kT4edirHbJnNNKWOMxJtmhUn3jK4AIaS_ndUnuKyP_rg0L-VeHtrZGiLVCgQq_qk2str8mq3UCdV0ykkKCofdYGHm9uCjqeyKMdf6aZHah4xpOE29mYUtdu2fL7e)](https://twitter.com/SleepingGiantGG)
-
-
-
 ![]()
-
-
 
 <!--EndFragment-->
